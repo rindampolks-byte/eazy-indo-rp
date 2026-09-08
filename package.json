@@ -1,6 +1,9 @@
 {
   "name": "whitelist-samp",
   "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Tidak ada build, langsung jalan'"
+  },
   "dependencies": {
     "mysql2": "^3.9.0"
   }
